@@ -69,5 +69,5 @@ List of booru imageboards
 | Tentacle rape              | https://tentaclerape.net/               | Shimmie                        | 83k                          | NSFW     | Art       |                                                    |                                                                                     |
 | WH40kart                   | https://wh40kart.im/                    | Shimmie                        | 47k                          | SFW?     | Art       |                                                    |                                                                                     |
 | 4chan house                | http://shimmie.4chanhouse.org/          | Shimmie                        | 9k                           | NSFW     | Memes     | Almost no tags                                     |                                                                                     |                                   |             |
-
+| CRBAbooru                  | https://booru.crba.tw/                  | Shimmie                        | 2                            | SFW      | Art       |                                                    |                                                                                     |                                   |             |
 
